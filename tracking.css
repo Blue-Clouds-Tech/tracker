@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+button{
+    background-color: rgb(9, 122, 167);
+    color: white;
+    padding: 10px 60px;
+    font-size: 20px;
+    border-radius: 25px;
+    border: 0px;
+    width: 40%;
+    margin: auto;
+
+}
+button:hover{
+     cursor: pointer;
+     background-color: blue;
+}
+
+div img{
+    width: 100%;
+}
+.image{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.page-container{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
